@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "spectral"
+
+[params]
+fancyTitle = "Paw Paradise"
+description = "Description of site can go here"
+startbuttonText = "Hi!"
