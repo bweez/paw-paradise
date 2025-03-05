@@ -4,5 +4,5 @@ title = 'Paw Paradise'
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="250px" src="/img/logo.webp" /> <br /> <p>Paw Paradise</p>'
-description = "Description of site can go here test"
+fancyTitle = '<img height="250px" src="/img/logo.webp" /><br /><p>Paw Paradise</p>'
+description = "Description of site can go here"
